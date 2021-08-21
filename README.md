@@ -2,27 +2,21 @@
 <p align="center">
 	<img src="./art/logo.png" alt="Nordzy-cursors logo">
 </p>
-<p align="center">
-	<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/alvatip/Nordzy-cursors/total?color=brightgreen"> 
-	<img alt="GitHub" src="https://img.shields.io/github/license/alvatip/Nordzy-cursors?color=blue"> 
-	<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/alvatip/Nordzy-cursors?color=9cf">
-</p>
 
-Cursor theme for the lover of radioactivity...
+
+Simple cursor theme for the lovers of radioactivity...
 
 ## Preview
 
-![Nordzy dark icons](./art/preview-black.png)
-![Nordzy white icons](./art/preview-white.png)
-
+![Radioactive](./art/preview.png)
 
 ## Installation
 
 ### Installer
 To use the installer, clone the repository and go inside it.
 ```
-git clone https://github.com/alvatip/Nordzy-cursors
-cd Nordzy-cursors
+git clone https://github.com/alvatip/radioactive
+cd radioactive
 ```
 Then, run the installer script. For local installation, use
 ``` 
@@ -36,17 +30,15 @@ sudo ./install
 Alternatively, you can use the tar.gz files located in the archive folder or in the release section and extract them to the adequate directory.</br>
 For local installation:
 ```
-tar -zxvf Nordzy-cursors.tar.gz -C $HOME/.icons/
-tar -zxvf Nordzy-white-cursors.tar.gz -C $HOME/.icons/
+tar -zxvf Radioactive.tar.gz -C $HOME/.icons/
 ```
 For system-wide installation: 
 ```
-tar -zxvf Nordzy-cursors.tar.gz -C /usr/share/icons/
-tar -zxvf Nordzy-white-cursors.tar.gz -C /usr/share/icons/
+tar -zxvf Radioactive.tar.gz -C /usr/share/icons/
 ```
 ### Also available on Pling
 <p align="left">
-  <a href="https://www.pling.com/p/1571937/" >
+  <a href="https://www.pling.com/p/1579027/" >
     <img title="Nordzy-cursors Pling Store" width="25%" src="https://imgur.com/VxSgrWw.png">
   </a>
 </p>
@@ -58,26 +50,24 @@ You will find all the needed informations on this [ArchWiki](https://wiki.archli
 ### Uninstallation
 If you installed it locally, run this command in your terminal: 
 ```
-rm -r $HOME/.icons/Nordzy-cursors*
-rm -r $HOME/.icons/Nordzy-white-cursors*
+rm -r $HOME/.icons/Radioactive*
 ```
 And if you installed it system-wide use:
 ```
-sudo rm -r /usr/share/icons/Nordzy-cursors*
-sudo rm -r /usr/share/icons/Nordzy-white-cursors*
+sudo rm -r /usr/share/icons/Radioactive*
 ```
-## Other ressources
-[Nordzy](https://github.com/alvatip/Nordzy-icon) icon theme. </br> 
-[Nordic](https://github.com/EliverLara/Nordic) GTK theme.
+## From the same author
+[Nordzy](https://github.com/alvatip/Nordzy-icon) icon theme </br> 
+[Nordzy-cursors](https://github.com/alvatip/Nordzy-cursors) </br>
 
 ##  Issues
 
-If you have any issues, report them [here](https://github.com/alvatip/Nordzy-cursors/issues), I will be happy to help you!
+If you have any issues, report them [here](https://github.com/alvatip/radioactive/issues), I will be happy to help you!
 
 ##  How can I help ?
 
 * By giving a **star** or **follow** on GitHub.
-* By **rating** it on [Pling](https://www.pling.com/p/1571937/)
+* By **rating** it on [Pling](https://www.pling.com/p/1579027/)
 * By participating to the project, creating PR, making suggestion, ...
 
 ## Licence

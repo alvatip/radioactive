@@ -7,7 +7,7 @@ DEST_DIR=
 if [ "$UID" -eq "$ROOT_UID" ]; then
   DEST_DIR="/usr/share/icons"
 else
-  DEST_DIR="$HOME/.local/share/icons"
+  DEST_DIR="$HOME/.icons/"
   mkdir -p $DEST_DIR
 fi
 
@@ -16,7 +16,7 @@ if [ -d "$DEST_DIR/Radioactive" ]; then
   rm -rf "$DEST_DIR/Radioactive"
 fi
 
-cp -r radioactive/ $DEST_DIR/Radioactive
+cp -r Radioactive/ $DEST_DIR/Radioactive
 
 echo "Finished..."
 
