@@ -2,8 +2,7 @@
 <p align="center">
 	<img src="./art/logo.png" alt="Nordzy-cursors logo">
 </p>
-<p align = "center">
-	<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/alvatip/radioactive/total?color=brightgreen"> 
+<p align = "center"> 
 	<img alt="GitHub" src="https://img.shields.io/github/license/alvatip/radioactive?color=blue"> 
 	<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/alvatip/radioactive?color=9cf">
 </p>
